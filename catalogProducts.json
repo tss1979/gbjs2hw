@@ -1,51 +1,50 @@
 [
-    {
+                {
         "id_product": 1,
-        "product_name": "MANGO PEOPLE T - SHIRT",
+        "product_name": 'MANGO PEOPLE T - SHIRT',
         "price": 52,
-        "img": img/photo-1.jpg
+        "img": 'img/photo-1.jpg'
   },
     {
         "id_product": 2,
-        "product_name": "MANGO PEOPLE T - SHIRT",
-        "price": $52,
-        "img": img/photo-2.jpg
+        "product_name": 'MANGO PEOPLE T - SHIRT',
+        "price": 52,
+        "img": 'img/photo-2.jpg'
 },
     {
         "id_product": 3,
-        "product_name": "MANGO PEOPLE T - SHIRT",
+        "product_name": 'MANGO PEOPLE T - SHIRT',
         "price": 52,
-        "img": img/photo-3.jpg
+        "img": 'img/photo-3.jpg'
 },
     {
         "id_product": 4,
-        "product_name": "MANGO PEOPLE T - SHIRT",
+        "product_name": 'MANGO PEOPLE T - SHIRT',
         "price": 52,
-        "img": img/photo-4.jpg
+        "img": 'img/photo-4.jpg'
 },
     {
         "id_product": 5,
-        "product_name": "MANGO PEOPLE T - SHIRT",
+        "product_name": 'MANGO PEOPLE T - SHIRT',
         "price": 52,
-        "img": img/photo-5.jpg
+        "img": 'img/photo-5.jpg'
 },
     {
         "id_product": 6,
-        "product_name": "MANGO PEOPLE T - SHIRT",
+        "product_name": 'MANGO PEOPLE T - SHIRT',
         "price": 52,
-        "img": img/photo-6.jpg
+        "img": 'img/photo-6.jpg'
 },
     {
         "id_product": 7,
-        "product_name": "MANGO PEOPLE T - SHIRT",
+        "product_name": 'MANGO PEOPLE T - SHIRT',
         "price": 52,
-        "img": img/photo-7.jpg
-    },
+        "img": 'img/photo-7.jpg'
+},
     {
         "id_product": 8,
-        "product_name": "MANGO PEOPLE T - SHIRT",
+        "product_name": 'MANGO PEOPLE T - SHIRT',
         "price": 52,
-        "img": img/photo-8.jpg
-    }
-
+        "img": 'img/photo-8.jpg'
+}
 ]
