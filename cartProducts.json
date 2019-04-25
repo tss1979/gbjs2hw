@@ -1,25 +1,25 @@
 {
-  "contents": [
-     {
+        "contents": [
+                {
                         "id_product": 123,
-                        "product_name": 'Rebox Zane',
+                        "product_name": "Rebox Zane",
                         "quantity": 1,
                         "price": 250,
-                        "img": 'img/cart-photo-1.jpg'
-                    },
-                    {
+                        "img": "img/cart-photo-1.jpg"
+                },
+                {
                         "id_product": 124,
-                        "product_name": 'Rebox Zane',
+                        "product_name": "Rebox Zane",
                         "quantity": 1,
                         "price": 250,
-                        "img": 'img/cart-photo-2.jpg'
-                    },
-                    {
+                        "img": "img/cart-photo-2.jpg"
+                },
+                {
                         "id_product": 125,
-                        "product_name": 'Rebox Zane',
+                        "product_name": "Rebox Zane",
                         "quantity": 1,
                         "price": 250,
-                        "img": 'img/cart-photo-3.png'
-                    },
-    ]
+                        "img": "img/cart-photo-3.png"
+                }
+        ]
 }
